@@ -1,0 +1,11 @@
+com.microsoft.schemas._2003._10.serialization
+com.tesco.appstore.messages._1
+com.tesco.appstore.proxy._1
+com.tesco.pipeline.device
+com.tesco.pipeline.device.model
+com.tesco.pipeline.device.route
+generated
+org.datacontract.schemas._2004._07.tesco_com_appstore
+org.datacontract.schemas._2004._07.tesco_com_appstore_core
+org.datacontract.schemas._2004._07.tesco_com_appstore_deviceidentification
+org.tempuri
